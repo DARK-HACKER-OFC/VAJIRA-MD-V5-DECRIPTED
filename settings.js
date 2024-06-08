@@ -8,15 +8,15 @@ function convertToBool(_0x1ca5da, _0x1bcba8 = 'true') {
   return _0x1ca5da === _0x1bcba8 ? true : false
 }
 global.thumb = fs.readFileSync('./lib/bugs/venom.jpg')
-const BOTNAME = 'VAJIRA-MD|-WA-BOT\u2122',
-  FOOTERNAME = '> ＶＡＪＩＲＡ -  ＭＤ - Ｖ4'
-global.owner = process.env.OWNER_NUMBER || '94701992015'
+const BOTNAME = 'RASH-MD|-WA-BOT\u2122',
+  FOOTERNAME = '> RAASH -  ＭＤ - Ｖ1'
+global.owner = process.env.OWNER_NUMBER || '94707765200'
 const _0x327eef = {}
 _0x327eef.SESSION_ID = process.env.SESSION_ID || 'youre session id'
 _0x327eef.travaSend = process.env.TRAVA_SEND || '25'
 _0x327eef.MAX_SIZE =
   process.env.MAX_SIZE === undefined ? '1536' : process.env.MAX_SIZE
-_0x327eef.OWNER_NAME = process.env.OWNER_NAME || 'VAJIRA'
+_0x327eef.OWNER_NAME = process.env.OWNER_NAME || 'RASH'
 _0x327eef.COMMAND_TYPE = process.env.COMMAND_TYPE || 'button'
 _0x327eef.LOGO =
   process.env.LOGO || 'https://telegra.ph/file/ab0ea6ad90e2eb98090d9.jpg'
@@ -29,7 +29,7 @@ _0x327eef.MONGODB_URI =
     : process.env.MONGODB_URI
 _0x327eef.FOOTER =
   process.env.FOOTER ||
-  '‌\uD83D\uDC68‍\uD83D\uDCBB ＶＡＪＩＲＡ -  ＭＤ - Ｖ5 \uD83D\uDC68‍\uD83D\uDCBB'
+  '‌\uD83D\uDC68‍\uD83D\uDCBB RASH -  ＭＤ - Ｖ1  \uD83D\uDC68‍\uD83D\uDCBB'
 _0x327eef.PREFIX = process.env.PREFIX || '.'
 _0x327eef.LANG = process.env.LANG || 'SI'
 _0x327eef.ANTI_BAD = process.env.ANTI_BAD || false
@@ -54,19 +54,19 @@ _0x327eef.imagenotfound = 'https://telegra.ph/file/dae6a8989dee17b7566f1.jpg'
 _0x327eef.imagesearch = 'https://telegra.ph/file/dae6a8989dee17b7566f1.jpg'
 _0x327eef.imageconnect = 'https://telegra.ph/file/dae6a8989dee17b7566f1.jpg'
 _0x327eef.DEVAPIKEY = 'SACHIBOT'
-_0x327eef.Itzcp = '94701992015'
+_0x327eef.Itzcp = '94707765200'
 _0x327eef.IMAGE_ENHANCE = ''
 _0x327eef.WHATSAPP_DEFAULT_SIZE = 1.7
 _0x327eef.BOTNUMBER =
-  process.env.BOTNUMBER === undefined ? '94701992015' : process.env.BOTNUMBER
+  process.env.BOTNUMBER === undefined ? '94707765200' : process.env.BOTNUMBER
 _0x327eef.OWNERNUMBER =
   process.env.OWNERNUMBER === undefined
     ? '94701992015'
     : process.env.OWNERNUMBER
 _0x327eef.BOTNAME = BOTNAME
 _0x327eef.FOOTERNAME = FOOTERNAME
-_0x327eef.DEVNUMBER = '94701992015'
-_0x327eef.DEVBOT = '94701992015'
+_0x327eef.DEVNUMBER = '94707765200'
+_0x327eef.DEVBOT = '94707765200'
 _0x327eef.CHANNEL = ''
 _0x327eef.DOWNLOADSAPI = 'https://sachibot-downloads.up.railway.app/'
 _0x327eef.DELETEMSGSENDTO =
