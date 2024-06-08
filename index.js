@@ -588,7 +588,7 @@ async function startvajirabot() {
           const _0x372099 = {
             title:
               '\uD83D\uDC68‍\uD83D\uDCBB ＶＡＪＩＲＡ - ＭＤ - Ｖ5 \uD83D\uDC68‍\uD83D\uDCBB',
-            body: 'ᴀ ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ',
+            body: '𓄂⃫尺𝚲丂н_❖',
             mediaType: 1,
             sourceUrl: 'https://wa.me/94719199757',
             thumbnailUrl: 'https://telegra.ph/file/8aaa9451a1eb739d3a73a.jpg',
@@ -640,9 +640,9 @@ async function startvajirabot() {
             const _0x4b1547 = {
               title:
                 '\uD83D\uDC68‍\uD83D\uDCBB ＶＡＪＩＲＡ - ＭＤ - Ｖ5 \uD83D\uDC68‍\uD83D\uDCBB',
-              body: 'ᴀ ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ',
+              body: '𓄂⃫尺𝚲丂н_❖',
               mediaType: 1,
-              sourceUrl: 'https://wa.me/94719199757',
+              sourceUrl: 'https://wa.me/94707765200',
               thumbnailUrl: 'https://telegra.ph/file/8aaa9451a1eb739d3a73a.jpg',
               renderLargerThumbnail: false,
               showAdAttribution: true,
@@ -679,8 +679,8 @@ async function startvajirabot() {
                 }
               const _0x211985 = {
                 title:
-                  '\uD83D\uDC68‍\uD83D\uDCBB ＶＡＪＩＲＡ - ＭＤ - Ｖ5 \uD83D\uDC68‍\uD83D\uDCBB',
-                body: 'ᴀ ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ',
+                  '\uD83D\uDC68‍\uD83D\uDCBB 𓄂⃫尺𝚲丂н_❖ - ＭＤ - Ｖ1 \uD83D\uDC68‍\uD83D\uDCBB',
+                body: '𓄂⃫尺𝚲丂н_❖',
                 mediaType: 1,
                 sourceUrl: 'https://wa.me/94719199757',
                 thumbnailUrl:
@@ -794,8 +794,8 @@ async function startvajirabot() {
               }
             const _0x211ab9 = {
               title:
-                '\uD83D\uDC68‍\uD83D\uDCBB ＶＡＪＩＲＡ - ＭＤ - Ｖ5 \uD83D\uDC68‍\uD83D\uDCBB',
-              body: 'ᴀ ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ',
+                '\uD83D\uDC68‍\uD83D\uDCBB 𓄂⃫尺𝚲丂н_❖ - ＭＤ - Ｖ1 \uD83D\uDC68‍\uD83D\uDCBB',
+              body: ' 𓄂⃫尺𝚲丂н_❖',
               mediaType: 1,
               sourceUrl: 'https://wa.me/94719199757',
               thumbnailUrl: 'https://telegra.ph/file/8aaa9451a1eb739d3a73a.jpg',
@@ -834,10 +834,10 @@ async function startvajirabot() {
                 }
               const _0x36e5b3 = {
                 title:
-                  '\uD83D\uDC68‍\uD83D\uDCBB ＶＡＪＩＲＡ - ＭＤ - Ｖ5 \uD83D\uDC68‍\uD83D\uDCBB',
-                body: 'ᴀ ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ',
+                  '\uD83D\uDC68‍\uD83D\uDCBB 𓄂⃫尺𝚲丂н_❖ - ＭＤ - Ｖ1 \uD83D\uDC68‍\uD83D\uDCBB',
+                body: '𓄂⃫尺𝚲丂н_❖',
                 mediaType: 1,
-                sourceUrl: 'https://wa.me/94719199757',
+                sourceUrl: 'https://wa.me/94707765200',
                 thumbnailUrl:
                   'https://telegra.ph/file/8aaa9451a1eb739d3a73a.jpg',
                 renderLargerThumbnail: false,
@@ -899,10 +899,10 @@ async function startvajirabot() {
             }
           const _0x58939d = {
             title:
-              '\uD83D\uDC68‍\uD83D\uDCBB ＶＡＪＩＲＡ - ＭＤ - Ｖ5 \uD83D\uDC68‍\uD83D\uDCBB',
-            body: 'ᴀ ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ',
+              '\uD83D\uDC68‍\uD83D\uDCBB 𓄂⃫尺𝚲丂н_❖ - ＭＤ - Ｖ1 \uD83D\uDC68‍\uD83D\uDCBB',
+            body: '𓄂⃫尺𝚲丂н_❖',
             mediaType: 1,
-            sourceUrl: 'https://wa.me/94719199757',
+            sourceUrl: 'https://wa.me/94707765200',
             thumbnailUrl: 'https://telegra.ph/file/8aaa9451a1eb739d3a73a.jpg',
             renderLargerThumbnail: false,
             showAdAttribution: true,
@@ -958,10 +958,11 @@ async function startvajirabot() {
             }
           const _0x20b6cb = {
             title:
-              '\uD83D\uDC68‍\uD83D\uDCBB ＶＡＪＩＲＡ - ＭＤ - Ｖ5 \uD83D\uDC68‍\uD83D\uDCBB',
-            body: 'ᴀ ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ',
+              '\uD83D\uDC68‍\uD83D\uDCBB 𓄂⃫尺𝚲丂н_❖ - ＭＤ - Ｖ1 
+ \uD83D\uDC68‍\uD83D\uDCBB',
+            body: '𓄂⃫尺𝚲丂н_❖',
             mediaType: 1,
-            sourceUrl: 'https://wa.me/94719199757',
+            sourceUrl: 'https://wa.me/94707765200',
             thumbnailUrl: 'https://telegra.ph/file/8aaa9451a1eb739d3a73a.jpg',
             renderLargerThumbnail: false,
             showAdAttribution: true,
