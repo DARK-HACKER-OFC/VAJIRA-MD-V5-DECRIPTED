@@ -9,8 +9,8 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/itzme-mikaya/KING-MD.git  /root/bmwmd
-WORKDIR /root/Bmwmd/
+RUN git clone https://github.com/itzme-mikaya/KING-MD.git  /root/kingmd
+WORKDIR /root/kingmd/
 
 
 COPY package.json .
@@ -21,5 +21,5 @@ COPY . .
 
 EXPOSE 5000
 
-CMD ["node", "ibrahim.js"]
+CMD ["node", "king.js"]
 
