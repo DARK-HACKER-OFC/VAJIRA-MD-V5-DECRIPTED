@@ -143,7 +143,7 @@ cmd(
       let _0x1a2419 = await fetchJson(
           'https://api.jikan.moe/v4/anime?q=' + _0xdb5ea
         ),
-        _0x8ff3c8 = 'VAJIRA MD ANIME SEARCH\n\n\t > ANIME SEARCHER \uD83D\uDEB6'
+        _0x8ff3c8 = 'SAKURA MD ANIME SEARCH\n\n\t > ANIME SEARCHER \uD83D\uDEB6'
       const _0x3edf74 = []
       for (let _0x5dbc97 of _0x1a2419.data) {
         _0x3edf74.push({
@@ -166,11 +166,11 @@ cmd(
         {
           name: 'single_select',
           buttonParamsJson: JSON.stringify({
-            title: 'Select news types',
+            title: 'Select Anime types',
             sections: [
               {
                 title: 'Please select a category',
-                highlight_label: 'VAJIRA-MD',
+                highlight_label: 'SAKURA-MD',
                 rows: _0x3edf74,
               },
             ],
@@ -575,7 +575,7 @@ if (config.COMMAND_TYPE === 'button') {
               sections: [
                 {
                   title: 'Please select a category',
-                  highlight_label: 'VAJIRA-MD',
+                  highlight_label: 'SAKURA-MD',
                   rows: _0x1aa093,
                 },
               ],
@@ -621,7 +621,7 @@ if (config.COMMAND_TYPE === 'button') {
           'https://api.maher-zubair.tech/details/ios'
         )
         let _0x51924d =
-          '\uD83D\uDC68‍\uD83D\uDCBB ＶＡＪＩＲＡ ＩＯＳ ＮＥＷＳ \uD83D\uDC68‍\uD83D\uDCBB\n\n*\uD83D\uDD16 Title:* ' +
+          '\uD83D\uDC68 ‍SAKURA-MD IOS NEWS \uD83D\uDCBB SS \uD83D\uDC68‍\uD83D\uDCBB\n\n*\uD83D\uDD16 Title:* ' +
           _0x25c60b.result.title +
           '\n*\u26D3️ Link:* ' +
           _0x25c60b.result.link +
@@ -666,7 +666,7 @@ if (config.COMMAND_TYPE === 'button') {
           'https://api.maher-zubair.tech/details/wabetainfo'
         )
         let _0x3f1d4a =
-          '\uD83D\uDC68‍\uD83D\uDCBB ＶＡＪＩＲＡ ＷＡＢＥＴＡＩＮＦＯ \uD83D\uDC68‍\uD83D\uDCBB\n\n*\uD83E\uDD4F Title :* ' +
+          '\uD83D\uDC68\uD83D\uDCBB SAKURA-MD WABETA NEWS \uD83D\uDC68‍\uD83D\uDCBB\n\n*\uD83E\uDD4F Title :* ' +
           _0x1a065b.result.title +
           '\n*\uD83D\uDCC5 Date :* ' +
           _0x1a065b.result.date +
@@ -714,8 +714,8 @@ if (config.COMMAND_TYPE === 'button') {
             'https://api.maher-zubair.tech/details/nasa'
           ),
           _0x1cbb1a =
-            '\uD83D\uDC68‍\uD83D\uDCBB ＶＡＪＩＲＡ ＮＡＳＡ ＮＥＷＳ \uD83D\uDC68‍\uD83D\uDCBB\n\n\uD83E\uDE84 \uD835\uDE4F\uD835\uDE44\uD835\uDE4F\uD835\uDE47\uD835\uDE40: ' +
-            _0x5da407.result.title +
+            '\uD83D\uDC68‍\uD83D\uDCBB SAKURA-MD NASA NEWS \uD83D\uDC68‍\uD83D\uDCBB\n\n\uD83E\uDE84 \uD835\uDE4F\uD835\uDE44\uD835\uDE4F\uD835\uDE47\uD835\uDE40: ' +
+            _0x5da407.result.title + 
             '\n\uD83D\uDCC6\uD835\uDE3F\uD835\uDE3C\uD835\uDE4F\uD835\uDE40: ' +
             _0x5da407.result.date +
             '\n\uD83D\uDE80 \uD835\uDE51\uD835\uDE40\uD835\uDE4D\uD835\uDE4E\uD835\uDE44\uD835\uDE4A\uD835\uDE49: ' +
@@ -762,7 +762,7 @@ if (config.COMMAND_TYPE === 'button') {
         const _0x5868a9 = require('tech-news-scraper'),
           _0x4d4a36 = await _0x5868a9.allNews()
         let _0x5a0a04 =
-          '\uD83D\uDC68‍\uD83D\uDCBB ＶＡＪＩＲＡ ＴＥＣＨ ＮＥＷＳ \uD83D\uDC68‍\uD83D\uDCBB\n\n'
+          '\uD83D\uDC68‍\uD83D\uDCBB SAKURA-MD TECH NEWS \uD83D\uDC68‍\uD83D\uDCBB\n\n'
         for (let _0x35f398 = 0; _0x35f398 < 16; _0x35f398++) {
           _0x5a0a04 += '*\u26D3️ No:* ' + _0x4d4a36.result[_0x35f398].no + '\n'
           _0x5a0a04 +=
@@ -800,7 +800,7 @@ if (config.COMMAND_TYPE === 'button') {
   const _0xaa27d0 = {
     pattern: 'sirasanews',
     react: '\uD83C\uDF99️',
-    desc: 'To see esana news',
+    desc: 'To see Sirasa news',
     category: '',
     use: '.esananews',
     filename: __filename,
@@ -868,11 +868,11 @@ if (config.COMMAND_TYPE === 'button') {
         const _0x288713 = {
           image: _0x4646e,
           caption:
-            '\n*\u2520\u2500\u2772 \uD83D\uDC69\uD83C\uDFFB‍\uD83C\uDFA8 VAJIRA MD \uD83D\uDDDE️\u2773* \n\n*\u2503\u25C9* *\u21E8 ᴛɪᴛᴇʟ :*\n ' +
+            '\n*\u2520\u2500\u2772 \uD83D\uDC69\uD83C\uDFFB‍\uD83C\uDFA8 SAKURA-MD ESANA NEWS \uD83D\uDDDE️\u2773* \n\n*\u2503\u25C9* *\u21E8 ᴛɪᴛᴇʟ :*\n ' +
             _0x1d6d4b.TITLE +
-            '\n\n*\u2503\u25C9* *\u21E8 ᴅᴀᴛᴇ :*\n ' +
+            '\n\n*\u2503\u25C9* *\u21E8 DATE :*\n ' +
             _0x1d6d4b.PUBLISHED +
-            '\n\n*\u2503\u25C9* *\u21E8 ᴜʀʟ :*\n ' +
+            '\n\n*\u2503\u25C9* *\u21E8 URL :*\n ' +
             _0x1d6d4b.URL +
             '\n\n*\u2503\u25C9* *\u21E8 Description :*\n ' +
             _0x1d6d4b.DESCRIPTION +
@@ -914,7 +914,7 @@ if (config.COMMAND_TYPE === 'button') {
       const _0x30b572 = await derananews()
       try {
         const _0x376e47 =
-            ' \uD83D\uDC68‍\uD83D\uDCBB \uD835\uDE51\uD835\uDE3C\uD835\uDE45\uD835\uDE44\uD835\uDE4D\uD835\uDE3C \uD835\uDE48\uD835\uDE3F \uD835\uDE3F\uD835\uDE40\uD835\uDE4D\uD835\uDE3C\uD835\uDE49\uD835\uDE3C \uD835\uDE49\uD835\uDE40\uD835\uDE52\uD835\uDE4E \uD83D\uDC68‍\uD83D\uDCBB\n    \n\uD83C\uDF39\u20DD⃘̉̉̉̉̉̉\uD83E\uDDDA *\uD835\uDD4B\uD835\uDD40\uD835\uDD4B\uD835\uDD43\uD835\uDD3C:* ' +
+            ' SAKURA-MD DERANA NEWS\n\n\uD83C\uDF39\u20DD⃘̉̉̉̉̉̉\uD83E\uDDDA *\uD835\uDD4B\uD835\uDD40\uD835\uDD4B\uD835\uDD43\uD835\uDD3C:* ' +
             _0x30b572.title +
             '\n\n\uD83C\uDF39\u20DD⃘̉̉̉̉̉̉\uD83E\uDDDA *ℕ\uD835\uDD3C\uD835\uDD4E\uD835\uDD4A \uD835\uDD43\uD835\uDD40ℕ\uD835\uDD42:* ' +
             _0x30b572.link +
@@ -968,13 +968,13 @@ if (config.COMMAND_TYPE === 'button') {
         const _0x4476da = {
           image: _0x500ee1,
           caption:
-            '\n\uD83D\uDC68‍\uD83D\uDCBB \uD835\uDE51\uD835\uDE3C\uD835\uDE45\uD835\uDE44\uD835\uDE4D\uD835\uDE3C \uD835\uDE43\uD835\uDE44\uD835\uDE4D\uD835\uDE50 \uD835\uDE49\uD835\uDE40\uD835\uDE52\uD835\uDE4E \uD83D\uDC68‍\uD83D\uDCBB\n\n\uD83D\uDCCD\u27A3*' +
+            '\nSAKURA-MD HIRU NEWS\n\n\uD83D\uDCCD\u27A3*' +
             _0x4fb087 +
             '* \n\u25CF\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u25CF  \n\uD83D\uDCC3\u27A3' +
             _0x3bcfd5 +
             ' \n\u25CF\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u25CF \n\uD83D\uDCC5\u27A3' +
             _0x22cfcc +
-            '\n\u25CF\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u25CF\n\n\uD83D\uDDDE️ *News From hirunews.lk*\n\n\uD83D\uDD17 *Create By vajira rathnayaka*\n\n\uD83D\uDCCD *SL News*\n\n\uD83D\uDC64 *Owner Number* :- http://wa.me/9471199757\n\n\n\u25CF\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u25CF',
+            '\n\u25CF\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u25CF\n\n\uD83D\uDDDE️ *News From hirunews.lk*\n\n\uD83D\uDD17 *CREATED BY SUNNY-LK*\n\n\uD83D\uDCCD *SL News*\n\n\uD83D\uDC64 *Owner Number* :- http://wa.me/94724400710\n\n\n\u25CF\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u25CF',
         }
         const _0x470e99 = { quoted: _0x4bf874 }
         const _0x2548e5 = await _0x591366.sendMessage(
@@ -1299,7 +1299,7 @@ cmd(
       let _0x5da7d4 =
         '\u256D\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2022\u221E\u2022\u2550\u2550\u256E\n'
       _0x5da7d4 +=
-        '\u2502\u2FFB   *\uD83D\uDC68‍\uD83D\uDCBB ＶＡＪＩＲＡ - ＭＤ - Ｖ4 \uD83D\uDC68‍\uD83D\uDCBB*\n'
+        '\u2502\u2FFB   *\uD83D\uDC68‍\uD83D\uDCBB SAKURA-MD \uD83D\uDC68‍\uD83D\uDCBB*\n'
       _0x5da7d4 += '\u2502\u2FFB   *LIVE MATCH INFO* \u2728\n'
       _0x5da7d4 += '\u2502\u2FFB\n'
       if (
@@ -1400,7 +1400,7 @@ _0x187cbf.pattern = 'gitstalk'
 _0x187cbf.react = '\uD83C\uDF99️'
 _0x187cbf.desc = 'To search github info'
 _0x187cbf.category = 'gitstalk'
-_0x187cbf.use = '.xnxxsearch <xnxx name>'
+_0x187cbf.use = '.gitstalk username'
 _0x187cbf.filename = __filename
 cmd(
   _0x187cbf,
@@ -1577,7 +1577,7 @@ cmd(
   ) => {
     try {
       const _0x310379 =
-          '\n\u256D\u2501\u2500\u2500\u2501\u2500\u25C8\u2500\u2501\u2500\u2501\u256E\n\u2502\uD83D\uDD16 *Bot Name* : VAJIRA-MD\n\u2502\uD83D\uDD16 *Owner Name* : Vajira\n\u2502\uD83D\uDD16 *Owner Number* : 94719199757\n\u2502\uD83D\uDD16 *Prefix* : .\n\u2502\uD83D\uDD16 *Runtime* : _*' +
+          '\n\u256D\u2501\u2500\u2500\u2501\u2500\u25C8\u2500\u2501\u2500\u2501\u256E\n\u2502\uD83D\uDD16 *Bot Name* : SAKURA-MD\n\u2502\uD83D\uDD16 *Owner Name* : SUNNY-LK\n\u2502\uD83D\uDD16 *Owner Number* : 94724400710\n\u2502\uD83D\uDD16 *Prefix* : .\n\u2502\uD83D\uDD16 *Runtime* : _*' +
           hours +
           'h ' +
           minutes +
