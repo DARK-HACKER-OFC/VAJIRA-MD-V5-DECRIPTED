@@ -131,7 +131,7 @@ async function ssearch(_0x5da8da) {
 }
 var needus = ''
 if (config.LANG === 'SI') {
-  needus = '*කරුණාකර මට threads url එකක් දෙන්න !!*'
+  needus = '*කරුණාකර මට threads url එකක් දෙන්න !! 𓄂⃫尺𝚲丂н_❖*'
 } else {
   needus = '*Please give me threads url !!*'
 }
@@ -149,7 +149,7 @@ if (config.LANG === 'SI') {
 }
 var urlneed = ''
 if (config.LANG === 'SI') {
-  urlneed = '*කරුණාකර Tiktok video url එකක් ලබා දෙන්න*'
+  urlneed = '*කරුණාකර Tiktok video url එකක් ලබා දෙන්න 𓄂⃫尺𝚲丂н_❖*'
 } else {
   urlneed = '*Please give me tiktok video url..*'
 }
@@ -359,7 +359,7 @@ if (config.COMMAND_TYPE === 'button') {
           { SinhalaSub: _0x267697 } = require('@sl-code-lords/movie-dl'),
           _0x2d9d02 = await _0x267697.movie(_0x51ed61)
         let _0x2bea70 =
-          '\uD83D\uDC68‍\uD83D\uDCBB ＶＡＪＩＲＡ ＴＥＣＨ ＮＥＷＳ \uD83D\uDC68‍\uD83D\uDCBB\n\n'
+          '\uD83D\uDC68‍\uD83D\uDCBB RASH ＴＥＣＨ ＮＥＷＳ \uD83D\uDC68‍\uD83D\uDCBB\n\n'
         for (let _0x47f71e = 0; _0x47f71e < 1; _0x47f71e++) {
           _0x2bea70 +=
             '*\u26D3️ No:* ' + _0x2d9d02.result[_0x47f71e].title + '\n'

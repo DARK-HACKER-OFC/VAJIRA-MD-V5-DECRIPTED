@@ -5,7 +5,7 @@
 "restart": "pm2 restart wabot"
 },
 "dependencies": {
-        "@whiskeysockets/baileys": "git+https://github.com/VajiraTech/VAJIRA-BAILEYS.git",
+        "@whiskeysockets/baileys": "git+https://github.com/itzme-mikaya/RASH-BAILEYS.git",
         "@bochilteam/scraper": "^4.0.22-alpha.0",
         "@shineiichijo/marika": "^2.0.2", 
         "@ffmpeg-installer/ffmpeg": "^1.1.0",
