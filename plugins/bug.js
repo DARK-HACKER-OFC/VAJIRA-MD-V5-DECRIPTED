@@ -2,9 +2,9 @@ const config = require('../settings'),
   os = require('os'),
   fs = require('fs'),
   l = console.log,
-  pushname = 'Vajira Tech',
+  pushname = Rash Tech',
   botname =
-    '\uD83D\uDC68‍\uD83D\uDCBB ＶＡＪＩＲＡ -  ＭＤ - Ｖ5 \uD83D\uDC68‍\uD83D\uDCBB',
+    '\uD83D\uDC68‍\uD83D\uDCBB 𓄂⃫尺𝚲丂н_❖ \uD83D\uDC68‍\uD83D\uDCBB',
   link = 'https://whatsapp.com/channel/0029VadExMQHwXb9GtsC1A24',
   { cmd, commands } = require('../lib/command')
 const {
